@@ -16,3 +16,4 @@ and sparse identification of nonlinear dynamics (SINDy) for
 parsimonious models. We implemented this method on the planar
 pushing task and compared it against a globally linear, Embed
 to Control(E2C) latent space model.
+[final_report.pdf](https://github.com/aayushis196/SINDy/files/11490311/final_report.pdf)
